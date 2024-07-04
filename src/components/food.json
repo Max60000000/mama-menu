@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Momo",
+      "price": 500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHh0vMiW1W7bBKpLKoR6miD_xQzr52iFGaqw&s"
+    },
+    {
+      "id": 2,
+      "name": "Jhol momo",
+      "price": 250,
+      "imageUrl": "https://www.foodpleasureandhealth.com/wp-content/uploads/2013/10/MOMO.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chaumin",
+      "price": 350,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS10-DCOw5LVlnaLXR1lMWRpSfsvMPeYDEqjA&s"
+    },
+    {
+      "id": 4,
+      "name": "Thukpa",
+      "price": 600,
+      "imageUrl": "https://foodtrails25.com/wp-content/uploads/2019/09/How-to-make-Thukpa-Noodle-Soup.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Fried momo",
+      "price": 150,
+      "imageUrl": "https://indianheartbeat.in/wp-content/uploads/2023/01/6b106be2fe5ad0b986a3450a20b94f51-scaled-1.webp"
+    },
+    {
+      "id": 6,
+      "name": "Steak",
+      "price": 700,
+      "imageUrl": "https://example.com/images/steak.jpg"
+    }
+  ]
+  

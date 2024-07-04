@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Coca-Cola",
+      "price": 50,
+      "imageUrl": "https://m.media-amazon.com/images/I/51v8nyxSOYL._SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Coffee",
+      "price": 50,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Cappuccino_at_Sightglass_Coffee.jpg/640px-Cappuccino_at_Sightglass_Coffee.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Milk Tea",
+      "price": 100,
+      "imageUrl": "https://as1.ftcdn.net/v2/jpg/02/24/15/90/1000_F_224159014_lwndB9ZhLaWUixGvsV1xVH1Gu3wAUa55.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Green Tea",
+      "price": 80,
+      "imageUrl": "https://cdn.policyx.com/images/green-tea-benefits-main-banner.webp"
+    },
+    {
+      "id": 5,
+      "name": "Fanta",
+      "price": 90,
+      "imageUrl": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/fanta-products-orange-zs-img.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Spirit",
+      "price": 70,
+      "imageUrl": "https://tiimg.tistatic.com/fp/1/007/687/mouth-watering-taste-chilled-and-fresh-sprite-cold-drink-suitable-for-daily-consumption-020.jpg"
+    }
+  ]
+  
